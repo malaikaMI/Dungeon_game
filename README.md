@@ -1,4 +1,5 @@
-# Dungeon_game
+# Dungeon game in ruby
+![](https://en.wikipedia.org/wiki/Dungeon!#/media/File:Dungeon!_Original_1975_Box_Cover.jpg)
 ## Game Play
 Original (1975): Elf, Hero, Superhero, Wizard
 New Dungeon (1989): Warrior, Elf, Dwarf, Wizard, Paladin, Thief
